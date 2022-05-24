@@ -7,7 +7,7 @@ const AppCtaSection = () => (
         Dont be shy
       </h2>
       <p className="text-xs md:text-sm text-gray max-w-[260px] md:max-w-xs mx-auto mt-2">
-        Is there anything I can help you with?  Thank you for visiting.
+        Is there anything I can help you with?
       </p>
       <AppButton title="Say Hi.." href="/contact" color="primary" />
     </div>
