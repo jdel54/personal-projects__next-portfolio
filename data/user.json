@@ -142,91 +142,81 @@
         "id": 1,
         "top": false,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fcookingbox.png?alt=media",
-        "name": "bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://cookingboxs.netlify.app"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       },
       {
         "id": 2,
         "top": false,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fnetflix-clone.png?alt=media",
-        "name": "bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://clone-netflix-web.netlify.app/"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       },
       {
         "id": 3,
         "top": true,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fwhatsapp-clone.png?alt=media",
-        "name": "bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://clone-whatsapp-web.netlify.app/"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       },
       {
         "id": 4,
         "top": false,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fweneeddev.png?alt=media",
-        "name": "bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://weneeddev.netlify.app/"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       },
       {
         "id": 5,
         "top": false,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fpinterest-clone.png?alt=media",
-        "name": "Bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://clone-pinterest-web.netlify.app/"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       },
       {
         "id": 6,
         "top": false,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fgoogle-clone.png?alt=media",
-        "name": "Bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://clone-google-web.netlify.app/"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       },
       {
         "id": 7,
         "top": false,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Ftodonesia.png?alt=media",
-        "name": "Bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://todonesia.netlify.app/"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       },
       {
         "id": 8,
         "top": false,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fpublic-blog-app.png?alt=media",
-        "name": "Bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://devsantara.vercel.app/"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       },
       {
         "id": 9,
         "top": true,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fairbnb-clone.png?alt=media",
-        "name": "Bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://airbnb-clone-app.vercel.app/"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       },
       {
         "id": 10,
         "top": true,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fdevsantara.png?alt=media",
-        "name": "Bla bla",
-        "stack": "Technologies used",
-        "category": "Personal Project",
-        "url": "https://devsantara.netlify.app/"
+        "name": "In progress",
+        "stack": "In progress",
+        "url": "#"
       }
     ]
   },
