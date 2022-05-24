@@ -19,8 +19,7 @@ const AppHero = () => (
             {DATA.description}
           </p>
           <div className="together">
-          <img className="Jorge_profile" src="services/Grabacion-avatar-Jorge.gif" alt="Jorge_Del_Castillo" >
-</img>
+          <img className="Jorge_profile" src="services/Grabacion-avatar-Jorge.gif" alt="Jorge_Del_Castillo" />
           <AppButton title="Get in touch" href="/contact" />
           
 </div>
