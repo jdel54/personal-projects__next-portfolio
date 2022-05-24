@@ -4,7 +4,6 @@ import AppDecoration from '../atomics/AppDecoration';
 import AppHead from '../atomics/AppHead';
 import AppNav from '../molecules/AppNav';
 import AppSide from '../atomics/AppSide';
-import AppSignature from '../organisms/AppSignature';
 import AppCtaSection from '../molecules/AppCtaSection';
 import AppHero from '../molecules/AppHero';
 import AppFooter from '../atomics/AppFooter';
@@ -18,7 +17,6 @@ const AppShell = ({ title, keyword, description, hero, cta, children }) => (
     {hero && <AppHero />}
     <AppContainer>
       {children}
-      <AppSignature />
       {cta && <AppCtaSection />}
       <AppFooter />
     </AppContainer>
@@ -34,9 +32,9 @@ AppShell.propTypes = {
 };
 
 AppShell.defaultProps = {
-  title: 'Edwin Tantawi',
+  title: 'Jorge Del Castillo',
   description:
-    'I am a student from Indonesia, who focuses on web development, especially frontend web development.',
+    'I am passionate about the STARTUP ecosystem and businesses with a high technological base. In ❤️ with digital products.',
   keyword: '',
   hero: false,
   cta: true,

@@ -56,10 +56,10 @@ const AppNav = () => {
         <Link href="/" passHref>
           <a className="flex items-center">
             <Image
-              src="/edwintantawi.svg"
-              alt="Edwin Tantawi"
-              width={40}
-              height={40}
+              src="/Jorge_icon.svg"
+              alt="Jorge Del Castillo"
+              width={50}
+              height={50}
             />
           </a>
         </Link>

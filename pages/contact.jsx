@@ -5,7 +5,7 @@ import AppHeader from '../components/organisms/AppHeader';
 
 const Contact = () => (
   <AppShell
-    title={`Edwin Tantawi | ${USER.contact.title}`}
+    title={`Jorge Del Castillo | ${USER.contact.title}`}
     description={USER.contact.description}
     keyword="contact me, contact, social media"
     cta={false}
@@ -15,7 +15,7 @@ const Contact = () => (
       description={USER.contact.description}
     />
     <AppSection title="Connect With Me">
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
         {USER.contact.contents.map((item) => (
           <a
             key={item.id}
