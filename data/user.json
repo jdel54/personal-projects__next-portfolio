@@ -38,13 +38,13 @@
     {
       "id": 1,
       "name": "Fast learner",
-      "description": "Always looking for the quickest and most efficient way to solve a problem that I do not know how to",
+      "description": "Always looking for the quickest and most efficient way to solve problems which I don't know how to do it.",
       "icon": "/services/service-uiux.svg"
     },
     {
       "id": 2,
       "name": "Entrepeneur",
-      "description": "I like to think about new business ideas and getting out of my comfort zone",
+      "description": "I like to think about new business ideas and getting out of my comfort zone.",
       "icon": "/services/entrepeneur.svg"
     },
     {
@@ -142,7 +142,7 @@
         "id": 1,
         "top": false,
         "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fcookingbox.png?alt=media",
-        "name": "My Portfolio",
+        "name": "In progress",
         "stack": "NextJS, Tailwind CSS",
         "url": "#"
       },
@@ -160,7 +160,8 @@
         "image": "https://firebasestorage.googleapis.com/v0/b/jdel54-portfolio.appspot.com/o/Portfolio-jdel54.png?alt=media&token=a16bb502-06cc-4c80-842c-4629f89a9e07",
         "name": "My Portfolio",
         "stack": "NextJS, Tailwind CSS, Github",
-        "url": "#"
+        "url": "#",
+        "description": "My personal live portfolio. Career, education, about me and where to contact me"
       },
       {
         "id": 4,
@@ -208,7 +209,8 @@
         "image": "https://firebasestorage.googleapis.com/v0/b/jdel54-portfolio.appspot.com/o/medifresco-portfolio-min.jpg?alt=media&token=79c3b012-9982-4223-82d6-a4b1620287b5",
         "name": "Medifresco",
         "stack": "Liquid, HTML, CSS",
-        "url": "https://firebasestorage.googleapis.com/v0/b/jdel54-portfolio.appspot.com/o/medifresco-project_Myu4Dj4Y%20(1).mp4?alt=media&token=3e89bbba-0c19-49ae-ad7f-9b37f5f02d17"
+        "url": "https://firebasestorage.googleapis.com/v0/b/jdel54-portfolio.appspot.com/o/medifresco-project_Myu4Dj4Y%20(1).mp4?alt=media&token=3e89bbba-0c19-49ae-ad7f-9b37f5f02d17",
+        "description":"First founded Startup - foodtech (Meal kit company). +70k€ in revenue during one year."
       },
       {
         "id": 10,
