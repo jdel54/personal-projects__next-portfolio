@@ -219,7 +219,7 @@
         "name": "Tweetbeer",
         "description":"Social twitter where people can share their thougths while drinking a beer.",
         "stack": "NextJS, firebase, React, JSX",
-        "url": "#"
+        "url": "https://tweetbeer.vercel.app/"
       }
     ]
   },
