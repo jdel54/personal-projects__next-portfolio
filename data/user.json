@@ -326,54 +326,15 @@
             "timestamp": "Sept 2019 - March 2021",
             "name": "Project Management",
             "info": "Umlaut Strategy Consulting for AIRBUS",
-            "list": [
-              {
-                "id": 1,
-                "name": "Leading the future process of equipment change of an airplane"
-              },
-              {
-                "id": 2,
-                "name": "Leading improvement projects of equipment in the cabin of an Airplane"
-              },
-              {
-                "id": 3,
-                "name": "Leading digitalization projects"
-              },
-              {
-                "id": 4,
-                "name": "Supporting and documenting the new manufacturing line of the Airplane"
-              },
-              {
-                "id": 5,
-                "name": "Aligning common agreement for requirements between AIRBUS and Supplier"
-              }
-            ]
+            "description": "Leading and optimizing change processes of airplanes (4M€ Budget) applying project management methodologies. Alignment between different parties (customer and supplier) and product iterations. Detecting automation and digitalization opportunities.Supported and documented a new manufacturing line and aligned requirements between AIRBUS and Supplier"
+            
           },
           {
             "id": 1,
             "timestamp": "Sept 2017 - Sept 2019",
             "name": "Project Management",
             "info": "VIE program for AIRBUS",
-            "list": [
-              {
-                "id": 1,
-                "name": "Direct support to Head of the department and their sub-teams"
-              },
-              {
-                "id": 2,
-                "name": "Leading the digitalization of the department and ensuring transversal participation within all teams"
-              },
-              {
-                "id": 3,
-                "name": "Managing risks and opportunities of the department"
-              },
-              {
-                "id": 4,
-                "name": "Leading projects of innovation and improvement within the department"
-              }
-              
-              
-            ]
+            "description": "Supported directly the Head of the department and subteams and led the digitalization of the department, ensuring traversal participation between all involved parties. Automated and digitalized opportunities applying project management skills (+500k€ managed), iterating MVP until final version. In parallel, I managed risks and possible opportunities (low risk-high opportunity)"
           },
           {
             "id": 1,

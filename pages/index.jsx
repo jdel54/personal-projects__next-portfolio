@@ -5,10 +5,11 @@ import AppSection from '../components/molecules/AppSection';
 import AppProject from '../components/atomics/AppProject';
 import AppShell from '../components/templates/AppShell';
 
+
 const Home = () => (
   <div>
     <AppShell hero>
-      <AppSection title="My strengths">
+    <AppSection title="My strengths">
         <div className="grid grid-cols-1 gap-3 md:grid-cols-2 xl:grid-cols-3 lg:gap-4">
           {USER.services.map((item) => (
             <div
