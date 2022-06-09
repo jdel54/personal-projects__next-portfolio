@@ -1,5 +1,4 @@
 import Fade from 'react-reveal/Fade';
-
 import AppContainer from '../atomics/AppContainer';
 import AppButton from '../atomics/AppButton';
 import DATA from '../../data/user.json';
@@ -20,7 +19,7 @@ const AppHero = () => (
             {DATA.description}
           </p>
           <div className="together">
-          <img className="Jorge_profile" src="services/Grabacion-avatar-Jorge.gif" alt="Jorge_Del_Castillo" />
+          <img className="Jorge_profile" src="/services/Grabacion-avatar-Jorge.gif" alt="Jorge_Del_Castillo" />
           <AppButton title="Get in touch" href="/contact" />
           
 </div>
@@ -28,6 +27,7 @@ const AppHero = () => (
       </Fade>
     </AppContainer>
   </header>
+  
 );
 
 export default AppHero;
