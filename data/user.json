@@ -215,9 +215,10 @@
       {
         "id": 10,
         "top": true,
-        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fdevsantara.png?alt=media",
-        "name": "In progress",
-        "stack": "In progress",
+        "image": "https://firebasestorage.googleapis.com/v0/b/tweetbeer-f1c7e.appspot.com/o/images%2FTweetbeer.png?alt=media&token=c6c6d39d-5bbb-472b-aacb-01c31683e8f4",
+        "name": "Tweetbeer",
+        "description":"Social twitter where people can share their thougths while drinking a beer.",
+        "stack": "NextJS, firebase, React, JSX",
         "url": "#"
       }
     ]
